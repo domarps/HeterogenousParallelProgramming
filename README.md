@@ -6,22 +6,22 @@ Jan 12th 2015 - Apr 09 2015
 
 Labs (Machine Problems)
 
-          MP: Lab Tour with Device Query
+          Week#1: Lab Tour with Device Query
           
-          MP: Vector Addition
+          Week#2: Vector Addition
           
-          MP: Basic Matrix-Matrix Multiplication
+          Week#3: Basic Matrix-Matrix Multiplication
           
-          MP: Tiled Matrix-Matrix Multiplication
+          Week#4: Tiled Matrix-Matrix Multiplication
           
-          MP: Image Convolution
+          Week#5: Image Convolution
           
-          MP: List Reduction
+          Week#6: List Reduction
           
-          MP: List Scan
+          Week#7: List Scan
           
-          MP: Histogram (Extra Credit)
+          Week#8: Histogram (Extra Credit)
           
-          MP: Vector Addition with Streams (Extra Credit)
+          Week#9: Vector Addition with Streams (Extra Credit)
           
-          OpenCL: Vector Addition (Extra Credit)
+          Week#10:OpenCL: Vector Addition (Extra Credit)
