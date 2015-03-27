@@ -22,7 +22,7 @@ Labs (Machine Problems)
           
           Week#7: List Scan
           
-          Week#8: Histogram (Extra Credit)
+          Week#8: Histogram 
           
           Week#9: Vector Addition with Streams (Extra Credit)
           
