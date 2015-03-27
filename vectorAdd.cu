@@ -1,4 +1,5 @@
 #include <wb.h>
+
 __global__ void vecAdd(float *in1, float *in2, float *out, int len) 
 {
    int index = blockIdx.x * blockDim.x + threadIdx.x;
