@@ -26,4 +26,4 @@ Labs (Machine Problems)
           
           Week#9: Vector Addition with Streams (Extra Credit)
           
-          Week#10:OpenCL: Vector Addition (Extra Credit)
+          Week#10:OpenCL- Vector Addition (Extra Credit)
