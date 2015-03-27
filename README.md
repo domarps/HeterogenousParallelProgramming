@@ -1,8 +1,10 @@
 [Heterogeneous Parallel Programming | Coursera ](https://www.coursera.org/course/hetero) 
 
-University of Illinois at Urbana-Champaign, by [Wen-mei W. Hwu](https://www.ece.illinois.edu/directory/profile/w-hwu) 
+University of Illinois at Urbana-Champaign, by [Professor Wen-mei W. Hwu](https://www.ece.illinois.edu/directory/profile/w-hwu) 
 
 Jan 12th 2015 - Apr 09 2015
+
+All programming assignments have passed all the datasets i.e. graded 100%.
 
 Labs (Machine Problems)
 
