@@ -7,10 +7,7 @@ int main(int argc, char **argv)
   float *hostInput1;
   float *hostInput2;
   float *hostOutput;
-
-
   args = wbArg_read(argc, argv);
-
   wbTime_start(Generic, "Importing data and creating memory on host");
   hostInput1 = (float *)wbImport(wbArg_getInputFile(args, 0), &inputLength);
   hostInput2 = (float *)wbImport(wbArg_getInputFile(args, 1), &inputLength);
